@@ -1,5 +1,9 @@
 # The Daily Ledger — 17 November 2026
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Auttzy/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Auttzy/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 A newspaper front page, drawn as a single image, summing up the world's news
 of Tuesday 17 November 2026.
 
@@ -26,7 +30,7 @@ day's headlines.
 
 ## The bounty
 
-Built for make.fun's `news-image-20261117` bounty: sum up 17 November 2026's
+Built for [make.fun](https://make.fun)'s [`news-image-20261117`](https://make.fun/bounty/news-image-20261117) bounty: sum up 17 November 2026's
 world news in one image. The prize pool is $250, shared by the top 50 entries.
 
 ## How to run it
